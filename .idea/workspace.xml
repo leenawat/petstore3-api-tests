@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e53d0a2-9e39-4855-8ad3-9f196eb81d85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PetControllerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/PetControllerTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2HEaNVOmuzqDH9LizKeHsuZUMX0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,6 +42,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.PetControllerTests.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -47,7 +55,7 @@
     <configuration name="PetControllerTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="task-checker-api-tests" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PetControllerTests" />
+      <option name="MAIN_CLASS_NAME" value="com.example.PetControllerTests" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -58,7 +66,7 @@
     <configuration name="PetControllerTests.createNewPet" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="task-checker-api-tests" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PetControllerTests" />
+      <option name="MAIN_CLASS_NAME" value="com.example.PetControllerTests" />
       <option name="METHOD_NAME" value="createNewPet" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -70,7 +78,7 @@
     <configuration name="PetControllerTests.deletePet" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="task-checker-api-tests" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PetControllerTests" />
+      <option name="MAIN_CLASS_NAME" value="com.example.PetControllerTests" />
       <option name="METHOD_NAME" value="deletePet" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
